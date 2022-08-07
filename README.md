@@ -1,2 +1,3 @@
-# rosalind
-Repositório criado para armazenamento dos códigos (python, R) usados para resolver os desafios do Rosalind Challenges (https://rosalind.info/problems/locations/).
+# Rosalind
+
+Repository created to store the code (python, R) used to solve Rosalind Challenges (https://rosalind.info/problems/locations/).
