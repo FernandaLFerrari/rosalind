@@ -12,8 +12,6 @@
 #
 
 from collections import Counter
-
-
 import sys
 
 #str(open(str(sys.argv[1]), "r"))
